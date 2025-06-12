@@ -5,5 +5,7 @@ este repositorio contiene las soluciones de los proyectos de https://roadmap.sh/
 
  Sitio web HTML básico https://roadmap.sh/projects/basic-html-website
  Personal Portfolio https://roadmap.sh/projects/portfolio-website
+ registro de cambios https://roadmap.sh/projects/changelog-component
+ 
 
  
